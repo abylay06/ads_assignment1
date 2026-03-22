@@ -50,6 +50,7 @@ public int fibonacci(int number) {
 }
 
 // Task 6. Power Function
+
 public int power(int number, int power) {
     if (power == 1) return number;
     if (power == 0) return 1;
